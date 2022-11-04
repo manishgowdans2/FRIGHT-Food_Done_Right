@@ -58,9 +58,9 @@ log.mainloop()
 ####Email Services################################################################
 
 
-MY_ADDRESS = "josephrvishal@gmail.com"
-MY_PASSWORD = "xccbvoonibqawmfu"
-SENDER_EMAIL = "manishgowdans@gmail.com"
+MY_ADDRESS =<Your_Email>
+MY_PASSWORD = <Password>
+SENDER_EMAIL = <Sender_Mail>
 HOST = "smtp.gmail.com"
 PORT = 587
 s = smtplib.SMTP("smtp.gmail.com", 587)
@@ -75,7 +75,7 @@ s.login(
 mydb = pymysql.connect(
     host="localhost",
     user="root",
-    password="manumani",
+    password=<password>
     database="hotel",
     charset="utf8mb4",
     port=3306,
