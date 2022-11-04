@@ -1,0 +1,19 @@
+pip install secure-smtplib
+pip install tk
+
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install pymysql
+pip install pystan==2.18.0.0
+pip install fbprophet
+
+###conda install libpython m2w64-toolchain -c msys2
+##On Prompt install Ephem:
+##conda install -c anaconda ephem
+
+##Install Pystan:
+##conda install -c conda-forge pystan
+
+##Finally install Fbprophet
+##conda install -c conda-forge fbprophet
