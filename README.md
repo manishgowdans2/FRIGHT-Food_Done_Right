@@ -11,7 +11,7 @@ We used website to increase the awarenes to stop the food wastage and utilize th
 
 Main page consists of a helpline number and our connect page to connect with us:
 
-![Main](https://github.com/manishgowdans2/FRIGHT-Food_Done_Right/blob/main/FRIGHT_MOBILE_APPLICATION/screenshot/Screenshot%20(297).png)
+![Main](https://github.com/manishgowdans2/FRIGHT-Food_Done_Right/blob/main/FRIGHT_MOBILE_APPLICATION/screenshot/web.png)
 
 Next we have the awareness page to spread awareness
 
